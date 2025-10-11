@@ -26,4 +26,5 @@
 Open Ports:
 - 80/tcp (HTTP)
 - 443/tcp (HTTPS)
-OS Guess: Linux 2.6.X
+- 53/tcp (Domain)
+OS Guess: Linux 2.6.32 - 3.10
