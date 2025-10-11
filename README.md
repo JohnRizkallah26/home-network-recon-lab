@@ -17,13 +17,6 @@ This lab demonstrates tactical network reconnaissance using Kali Linux in Virtua
 
 ---
 
-## 🔍 Recon Workflow
-
-### 1. Identify Subnet
-```bash
-ip a
-ip route
-
 ## 📸 Screenshots
 See `screenshots/` for annotated images of Netdiscover and Nmap scans.
 
@@ -35,3 +28,12 @@ Repeatable procedures for adapter switching and scan setup are in `SOPs/adapter-
 
 ## 🛠️ Tools Used
 See `tools-used.md` for command flags and tool notes.
+
+
+
+
+
+
+
+
+
