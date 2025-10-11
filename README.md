@@ -23,3 +23,15 @@ This lab demonstrates tactical network reconnaissance using Kali Linux in Virtua
 ```bash
 ip a
 ip route
+
+## 📸 Screenshots
+See `screenshots/` for annotated images of Netdiscover and Nmap scans.
+
+## 📊 Findings
+Detailed scan results and analysis are in `findings/scan-summary.md`.
+
+## 🧾 SOPs
+Repeatable procedures for adapter switching and scan setup are in `SOPs/adapter-switching.md`.
+
+## 🛠️ Tools Used
+See `tools-used.md` for command flags and tool notes.
